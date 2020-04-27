@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -47,30 +48,30 @@ if (navigator.appName == 'Microsoft Internet Explorer')
 
 <div class='container'>
 <header>
-<div id="main">
-<div id="header">
-   
-<div id="logo"><div id="logo_text"><h1><a href="#"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="logo_colour1"> Nikolaos</span></a>
-	  &nbsp;<a href="#"> <span class="logo_colour">Tselikas</span></a></h1></div><a href="en/index.html" id="link2"><img src="images/english.png" alt="Nikos Tselikas" align="right" style="margin-top:10px"></a><a href="index.html" id="link2"> <img src="images/Greece.png" alt="Nikos Tselikas" align="right" style="margin-top:10px"></a></div><div id="menubar"><ul id="menu">
-      <li class="selected"><a href="index.html">Αρχικη</a></li>
-	  
-	  <li><a href="research.html">Ερευνα</a>
+<div id="main"><div id="header">   
+
+<div id="logo"><div id="logo_text"><h1><a href="#"> &nbsp;&nbsp; <span class="logo_colour1"> Nikolaos</span></a>
+	 </p>   &nbsp; &nbsp; &nbsp; &nbsp;<a href="#"> <span class="logo_colour">Tselikas</span></a></h1></div><a href="en/index.php" id="link2"><img src="images/english.png" alt="Nikos Tselikas" align="right" style="margin-top:10px"></a><a href="index.php" id="link2"> <img src="images/Greece.png" alt="Nikos Tselikas" align="right" style="margin-top:10px"></a></div><div id="menubar"><ul id="menu">
+      <li class="selected"><a href="index.php">
+	  Αρχικη</a>
+      </li>
+	  <li><a href="research.php">Ερευνα</a>
       
       </li>
-	  <li><a href="teaching.html">Διδασκαλια</a>
+	  <li><a href="teaching.php">Διδασκαλια</a>
       
       </li>
-	  <li><a href="publications.html">ΔημοσιευσειΣ</a>
+	  <li><a href="publications.php">ΔημοσιευσειΣ</a>
       
       </li>
-	  <li><a href="projects.html">Ερευνητικα Εργα</a>
+	  <li><a href="projects.php">Ερευνητικα Εργα</a>
       
       </li>
-	  <li><a href="contact.html">Επικοινωνια</a>
+	  <li><a href="contact.php">Επικοινωνια</a>
       
       </li></ul></div>
 	  
-	  </div>
+	  </div></div>
 </header>	  
 	  
 	  
@@ -148,6 +149,5 @@ if (navigator.appName == 'Microsoft Internet Explorer')
 <!-- href="http://www.freewebtemplates.com/">free website templates</a>.</div> -->
 
 </div>
-
 </body>
 </html>
